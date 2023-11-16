@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(92,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(601,63): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(508,7): warning C4101: 'isWin': unreferenced local variable
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(704,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 554 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Task4.vcxproj -> C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\x64\Release\Task4.exe

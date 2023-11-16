@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(263,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\main.cpp(339,63): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  Task4.vcxproj -> C:\Users\Rogalik\Desktop\Institut\7 semester\Intellectual System\Task4\x64\Debug\Task4.exe
